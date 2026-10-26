@@ -1,0 +1,12 @@
+
+常見的評分結果代號
+
+• AC (Accepted)：通過所有測資點。
+• NA (Not Accept)：部分測資點未通過。
+• WA (Wrong Answer)：輸出結果與標準答案不符。
+• TLE (Time Limit Exceed)：執行時間超過限制。
+• MLE (Memory Limit Exceed)：使用的記憶體超過規定。
+• OLE (Output Limit Exceed)：輸出的資料量過大。
+• RE (Runtime Error)：執行過程中發生錯誤（如除以零、陣列超界）。
+• CE (Compile Error)：語法錯誤，無法編譯。
+• RF (Restricted Function)：使用了被禁止的函式。
